@@ -1,0 +1,23 @@
+Microsoft Visual Studio Solution File, Format Version 11.00
+# Visual Studio 2008
+
+Project("{54AD66B6-084D-62C2-BFAB-650430A5314A}") = "JaceVisualise", "Assembly-CSharp.csproj", "{4324E1C7-DFFD-DFD5-ACE0-21400D2ABDED}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{4324E1C7-DFFD-DFD5-ACE0-21400D2ABDED}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{4324E1C7-DFFD-DFD5-ACE0-21400D2ABDED}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{4324E1C7-DFFD-DFD5-ACE0-21400D2ABDED}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{4324E1C7-DFFD-DFD5-ACE0-21400D2ABDED}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(MonoDevelopProperties) = preSolution
+		StartupItem = Assembly-CSharp.csproj
+	EndGlobalSection
+EndGlobal
